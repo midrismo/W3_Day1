@@ -1,0 +1,4 @@
+GraphRAG combines Knowledge Graphs with Retrieval-Augmented Generation. 
+LangChain provides tools to extract entities like companies, technologies, and concepts.
+Neo4j is a popular graph database, developed by Neo4j Inc. It stores nodes and relationships.
+NetworkX is a Python library for studying graphs and network structures.
